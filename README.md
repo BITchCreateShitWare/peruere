@@ -1,3 +1,7 @@
+# my own version
+- https://gitee.com/eeppee_admin/probe-peruere
+
+
 # Peruere (WIP)
 
 Play animated backgrounds on linux (X11)
